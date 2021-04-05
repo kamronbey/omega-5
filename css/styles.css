@@ -275,7 +275,7 @@ body {
 /* 3-section */
 /* 4-section */
 .make {
-    padding: 200px 50px;
+    padding: 200px 0;
     background-color:#F7F7FB;
     background-image: url(../img/BG1.png);
     background-repeat: no-repeat;
